@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ObvSilver",
+            "link": "https://youtu.be/0eI_68vuTHs",
+            "percent": 100,
+            "hz": 280
+        }
     ]
 }
