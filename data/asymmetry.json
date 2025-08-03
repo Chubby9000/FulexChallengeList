@@ -1,0 +1,18 @@
+{
+    "id": 74523564,
+    "name": "asymmetry",
+    "author": "mustachioisbae",
+    "creators": ["mustachioisbae"],
+    "verifier": "mustachioisbae",
+    "verification": "https://www.youtube.com/watch?v=5_hirkXIeS4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "Chubby9000",
+            "link": "https://www.youtube.com/watch?v=s229JiNLaxw",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
