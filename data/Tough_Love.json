@@ -1,0 +1,18 @@
+{
+    "id": 84472425,
+    "name": "Tough Love",
+    "author": "mustachioisbae",
+    "creators": ["mustachioisbae"],
+    "verifier": "mustachioisbae",
+    "verification": "https://www.youtube.com/watch?v=VxpZ05TY_hU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "Chubby9000",
+            "link": "https://www.youtube.com/watch?v=jPATWnM_gnQ",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
