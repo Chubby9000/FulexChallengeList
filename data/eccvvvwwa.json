@@ -1,0 +1,18 @@
+{
+    "id": 74799443,
+    "name": "eccvvvwwa",
+    "author": "mustachioisabe",
+    "creators": ["mustachioisabe"],
+    "verifier": "mustachioisabe",
+    "verification": "https://www.youtube.com/watch?v=FZd8B4Ktavo",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+      {
+            "user": "Chubby9000",
+            "link": "https://www.youtube.com/watch?v=kXLYio-nWBA",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
