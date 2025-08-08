@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Chubby9000",
+            "link": "https://www.youtube.com/watch?v=sM9HkwWbirE",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "yaunclejohn",
+            "link": "https://youtu.be/xXCr2Dpo7IQ",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
